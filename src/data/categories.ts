@@ -4,5 +4,6 @@ export const CATEGORIES = [
 	'eBPF & Linux',
 	'PQC',
 	'5G Core',
-	'6G Research'
+	'6G Research',
+	'eBPF'
 ] as const
